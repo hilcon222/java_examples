@@ -3,6 +3,7 @@ package point;
 import java.lang.Math;
 
 public class Point {
+	// a basic class to represent a point.
 	public double x;
 	public double y;
 	public Point(double x, double y) {
